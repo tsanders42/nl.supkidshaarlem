@@ -6827,6 +6827,10 @@ textarea.form-control-lg {
   bottom: 100% !important;
 }
 
+.bottom-margin-1 {
+    margin-bottom:  1em;
+  }
+
 .start-0 {
   left: 0 !important;
 }
@@ -11417,10 +11421,6 @@ header.masthead {
 header.masthead h1, header.masthead .h1 {
   font-size: 2.25rem;
 }
-
-.mastheadtext {
-    margin-bottom:  1em;
-  }
 
 @media (min-width: 992px) {
   header.masthead {
