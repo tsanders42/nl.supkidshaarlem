@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "include": [
+      "/*",
+      "/clinic"
+      "/index-en"
+    ],
+    "exclude": []
+  }
